@@ -1,0 +1,8 @@
+.cart{
+    border: 2px solid lightgreen;
+    border-radius: 15px;
+}
+
+.cart img{
+    height: 250px;
+}
